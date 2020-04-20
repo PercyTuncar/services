@@ -1,0 +1,26 @@
+{
+"services":
+  [
+    {
+    "id":1,
+    "title":"Web",
+    "image":"https://images.pexels.com/photos/1779487/pexels-photo-1779487.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "price":"Desde $50 USD/proyecto",
+    "description":"Sitios web creadas con las ultimas tecnologias NO WORDPRES"
+    },
+    {
+    "id":2,
+    "title":"Seguidores Instagram",
+    "image":"https://cms.qz.com/wp-content/uploads/2018/03/instagram-is-updating-its-algorithm.jpg?quality=75&strip=all&w=1600&h=900&crop=1",
+    "price":"Desde $50 USD/semana",
+    "description":"Te ayudo a conseguir mas seguidores en instagram"
+    },
+    {
+    "id":3,
+    "title":"Fotografia",
+    "image":"https://images.pexels.com/photos/248519/pexels-photo-248519.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+    "price":"Proximamente",
+    "description":"Fotografia para empresas y personas naturales en Perú"
+    }
+  ]
+}
